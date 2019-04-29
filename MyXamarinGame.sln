@@ -1,0 +1,21 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 14.0.23107.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyXamarinGame.Windows", "MyXamarinGame.Windows\MyXamarinGame.Windows.csproj", "{AA70FF0F-27AE-4B77-BA59-7CBB539F8D2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyXamarinGame", "MyXamarinGame\MyXamarinGame.csproj", "{9B7453E5-1DFA-4DD4-9237-D91DBE5D928B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyXamarinGame.UWP", "MyXamarinGame.UWP\MyXamarinGame.UWP.csproj", "{2F68EEBD-14AA-4E3C-B75D-5D337AC3C25D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyXamarinGame.Linux", "MyXamarinGame.Linux\MyXamarinGame.Linux.csproj", "{8ACFA289-D901-427A-AA53-93ACE8B3227D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyXamarinGame.macOS", "MyXamarinGame.macOS\MyXamarinGame.macOS.csproj", "{FD782338-9C46-4C7A-AA41-978C4240447F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyXamarinGame.Android", "MyXamarinGame.Android\MyXamarinGame.Android.csproj", "{4876D8B4-4F0E-41D1-B443-65F4EE511F64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyXamarinGame.iOS", "MyXamarinGame.iOS\MyXamarinGame.iOS.csproj", "{89505A85-C8CA-473F-8F5C-225C7BB497A1}"
+EndProject
+Global
+EndGlobal
